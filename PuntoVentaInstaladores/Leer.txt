@@ -1,0 +1,19 @@
+Antes de ejecutar el aplicativo, se debe realizar lo siguiente:
+
+-Copiar la carpeta "EjecutablePuntoVenta" al directorio C:\
+
+-Tener instalado el jdk 8 hacia arriba, sino lo tienen descargarlo del siguiente link
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox
+
+-Crear la variable de Entorno JAVA_HOME
+	+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=389:configurar-java-en-windows-variables-de-entorno-javahome-y-path-cu00610b&catid=68&Itemid=188
+
+-Instalar la base de datos MySql, desde el siguiente link
+https://dev.mysql.com/downloads/file/?id=495322
+	
+	+Se debe instalar el motor de base datos y MySqlWorkbench
+
+-Abrir el archivo punto_venta.sql en MySqlWorkbench
+
+-Iniciar aplicativo, dando doble click sobre el archivo "SistemaVentas.jar" sino se ejecuta abrir una terminal y ejecutar el siguiente comando
+	+ java -jar C:\EjecutablePuntoVenta\SistemaVentas.jar
