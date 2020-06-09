@@ -1,0 +1,9 @@
+build/*
+build.xml
+dist/*
+lib/*
+manifest.mf
+nbproject/*
+punto_venta.sql
+src/*
+test/*
